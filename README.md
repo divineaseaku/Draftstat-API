@@ -1,2 +1,3 @@
 # Draftstat-API
-An api for lastes DFS statistics.
+An api for lastest DFS statistics.
+Developed with React Json HTML/CSS
